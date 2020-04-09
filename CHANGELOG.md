@@ -2,6 +2,9 @@ Change Log
 ==========
 
 Version 0.1.2
+
+
+
 ----------------------------
 * Fixed not working debugger on older then 4.8 version of j2v8: separate j2v8backport module is created with j2v8 v4.6.0 as dependency.
 * j2v8backport is being published together with j2v8-debugger
